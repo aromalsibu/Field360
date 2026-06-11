@@ -205,19 +205,19 @@ Each iteration was driven by real farm usage and operational feedback.
 
 ### Dashboard
 
-*Add screenshot*
+![Alt Text](screenshots/Dashboard.png)
 
 ### FieldView
 
-*Add screenshot*
+![Alt Text](screenshots/FieldView.png)
 
 ### Plot Management
 
-*Add screenshot*
+![Alt Text](screenshots/Plots.png)
 
 ### Finance
 
-*Add screenshot*
+![Alt Text](screenshots/Finance.png)
 
 ---
 
