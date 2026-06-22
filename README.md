@@ -183,8 +183,6 @@ As of June 2026:
 * 184 Dart files
 * 21,000+ lines of code
 * 4 major FieldView design iterations
-* 2,500+ tracked fodder plants
-* Active daily usage
 
 ---
 
