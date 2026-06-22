@@ -1,5 +1,5 @@
 # Field360
-
+![Alt Text](screenshots/Dashboard.png)
 **Internal Spatial Farm Management Platform**
 
 Field360 is a mobile-first, offline-first farm management platform built to support my own agricultural operations in Kerala. It was created to solve a practical problem: managing thousands of plants where timing, visibility, and consistency directly impact yield.
