@@ -15,24 +15,23 @@ lib/
 │       └── id_generator.dart
 ├── features/                 # Feature-First Clean Architecture
 │   ├── dashboard/            # Weather, Tasks overview & metrics
-│   │   ├── data/             # Data sources, Models (e.g., weather_model.dart)
-│   │   ├── domain/           # Entities (e.g., task_model.dart)
-│   │   └── presentation/     # Screens, Providers, and domain-specific Widgets
-│   ├── farms/                # Farm plots, zones, crops, & Drift DAOs
-│   │   ├── data/             # Local database tables and local Repositories
-│   │   ├── domain/           # Core Entities (plot, crop, harvest, transaction)
-│   │   ├── modules/          # Sub-features like digital twins (dtwin) and zones
-│   │   └── presentation/     # Screen layers, Plot CRUD forms, & sub-widgets
+│   │   ├── data/             
+│   │   ├── domain/           
+│   │   └── presentation/     
+│   ├── farms/                # Farm plots, zones, crops
+│   │   ├── data/             
+│   │   ├── domain/           
+│   │   ├── modules/          # Sub-features like FieldView and zones
+│   │   └── presentation/     
 │   ├── finance/              # Cashflow, revenues, and ledger operations
 │   │   ├── data/
 │   │   ├── domain/
-│   │   └── presentation/     # finance_page.dart & localized widgets
-│   ├── maps/
-│   └── tasks/                # Scheduling, field task tracking & KPI modules
-├── shared/                   # Global components across multiple features
-│   ├── constants/            # Global icon maps, SVGs, and adaptive palettes
-│   ├── extensions/
-│   ├── providers/            # Environment providers (Seasons, Day Phase)
-│   └── widgets/
-└── tools/
-    └── map_gen.dart          # Internal tooling / generative utilities
+│   │   └── presentation/     
+│   │
+│   └── tasks/                # Scheduling, field task tracking 
+└── shared/                   # Global components across multiple features
+    ├── constants/            # Global icon maps, SVGs, and adaptive palettes
+    ├── extensions/
+    ├── providers/            # Environment providers (Seasons, Day Phase)
+    └── widgets/
+          
